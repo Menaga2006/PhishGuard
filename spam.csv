@@ -1,0 +1,41 @@
+label,message
+spam,Your account has been suspended Click here to verify your identity immediately
+spam,Congratulations You have won money Claim your prize now
+spam,FREE MONEY Get rich quick scheme Limited offer
+spam,Click here to download your free iPhone
+spam,Your password reset link Click immediately
+spam,BONUS ALERT You have earned bonus points
+spam,You have been selected for a special offer
+spam,BREAK THE INTERNET Click here for more
+spam,Buy medications online without prescription
+spam,Your bank account has been compromised Verify immediately
+ham,Hi John I hope you are doing well
+ham,Meeting reminder Project review at 3 PM
+ham,Thank you for your purchase Order shipped
+ham,Can you please send me the updated report
+ham,The team did great work on the project
+ham,I wanted to follow up on our conversation
+ham,Please find attached the financial statements
+ham,Server maintenance scheduled for this weekend
+ham,Thanks for your feedback on the design mockups
+ham,Good morning Hope you are having a productive day
+spam,Exclusive offer 80 percent off luxury items
+spam,You have been randomly selected
+spam,ALERT Suspicious activity on your PayPal account
+spam,Work from home and earn 5000 per week
+spam,Your package delivery failed Update your address
+ham,Calendar invite for team standup tomorrow
+ham,Thanks for attending the conference
+ham,Here is the spreadsheet with sales data
+ham,Welcome to the company
+ham,Gentle reminder about the deadline extension
+spam,URGENT ACTION REQUIRED Your account will be closed
+ham,Hi just checking in to see how project is going
+spam,Limited time offer Get 90 percent off premium membership
+ham,Your appointment is confirmed for tomorrow
+spam,Claim your free gift card worth $100
+ham,Meeting notes from today standup are attached
+spam,Your PayPal account requires immediate verification
+ham,Let's schedule a call to discuss the proposal
+spam,CONGRATULATIONS YOU ARE A WINNER
+ham,Thank you for your inquiry We will contact you soon
