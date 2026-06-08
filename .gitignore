@@ -1,0 +1,13 @@
+# Virtual environments and caches
+.venv/
+__pycache__/
+
+# Local secrets / credentials
+client_secret.json
+client_secret*.json
+*.sqlite
+instance/
+
+# OS junk
+.DS_Store
+Thumbs.db
